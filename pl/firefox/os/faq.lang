@@ -1,0 +1,225 @@
+## active ##
+## firefox_os_faq_updates ##
+## NOTE: page is https://www-dev.allizom.org/firefox/os/faq/
+
+
+;Firefox OS Frequently Asked Questions
+Firefox OS — Najczęściej zadawane pytania
+
+
+;Firefox OS FAQ
+Firefox OS FAQ {ok}
+
+
+;About Firefox OS
+O Firefox OS
+
+
+;What is Firefox OS?
+Czym jest Firefox OS?
+
+
+;Backed by some of the biggest names in the industry, Firefox OS is a new open operating system for smartphones developed by Mozilla.
+Wspierany przez największe marki na rynku, Firefox OS jest nowym, otwartym systemem operacyjnym na urządzenia mobilne, rozwijanym przez Mozillę.
+
+
+;Built entirely using HTML5 and other open Web standards, Firefox OS is free from the rules and restrictions of existing proprietary platforms.
+Stworzony w całości przy wykorzystaniu otwartych technologii i standardów W3C, Firefox OS nie jest ograniczony tak, jak obecnie istniejące, własnościowe platformy.
+
+
+;How is Firefox OS different from other operating systems?
+Czym Firefox OS różni się od innych systemów operacyjnych?
+
+
+;Firefox OS is the only operating system with Adaptive App Search.
+Firefox OS jest jedynym systemem operacyjnym z funkcją dynamicznego wyszukiwania aplikacji.
+
+
+;While every other phone today is static, giving you the exact same apps each time you turn it on, Firefox OS is always changing to offer exactly the apps you need at any moment in your life.
+Podczas gdy inne współczesne telefony są statyczne i oferują identyczne aplikacje za każdym uruchomieniem, Firefox OS zmienia się, dostosowując aplikacje do aktualnych potrzeb.
+
+
+;It adapts so you can live every moment to its fullest.
+Dopasowuje się, dzięki czemu możesz przeżyć w pełni każdy moment.
+
+
+;Firefox OS is brought to you by Mozilla, a global nonprofit organization that emphasizes principle over profit.
+Firefox OS został stworzony przez Mozillę, globalną organizację non-profit, która stawia zasady ponad zysk.
+
+
+;We believe that the Web is a shared public resource to be cared for, not a commodity to be sold.
+Wierzymy, że Internet jest wspólnym zasobem publicznym, którym należy się opiekować, a nie produktem na sprzedaż.
+
+
+;We work with a worldwide community to create open source products like Mozilla Firefox and to innovate for the benefit of the individual and the betterment of the Web.
+Pracujemy z ogólnoświatową społecznością, by tworzyć produkty o otwartym kodzie źródłowym, takie jak Mozilla Firefox, oraz tworzyć nowe rozwiązania dla wszystkich.
+
+
+;The result is great products built by passionate people and better choices for everyone.
+Wynikiem są wspaniałe produkty stworzone przez ludzi z pasją oraz lepszy wybór dla każdego.
+
+
+;Buying Firefox OS
+Kupowanie Firefox OS
+
+
+;What phones will Firefox OS be available on?
+Jakie telefony z Firefox OS są obecnie dostępne?
+
+
+;To see a full list of available Firefox OS phones, please visit the <a href="%(link)s">devices page</a>.
+Przejdź do strony <a href="%(link)s">wszystkich urządzeń</a>, aby zobaczyć pełną listę telefonów, dostępnych z Firefox OS.
+
+
+;Where can I buy Firefox OS?
+Gdzie mogę kupić Firefox OS?
+
+
+;To purchase a Firefox OS phone, please visit the <a href="%(link)s">devices page</a> and select your available country.
+Aby kupić telefon z Firefox OS, odwiedź stronę z <a href="%(link)s">listą urządzeń</a> i wybierz któryś z dostępnych w Twoim kraju.
+
+
+;What will be the price of the phone?
+Jaka będzie cena telefonu?
+
+
+;Pricing is not set by Mozilla and will be established by our operator and manufacturer partners based on local market dynamics.
+Ceny nie są ustalane przez Mozillę i zostaną wyznaczone przez naszych partnerów w zależności od lokalnej dynamiki rynku.
+
+
+;What apps will be available on Firefox OS?
+Jakie aplikacje będą dostępne na Firefox OS?
+
+
+;The growing list includes leading apps like Facebook, Twitter, Nokia HERE maps, Cut the Rope, and Time Out.
+Rosnąca lista zawiera takie popularne aplikacje, jak Facebook, Twitter, mapy Nokia HERE, Cut the Rope czy Time Out.
+
+
+;Many more are being made available every day.
+Wiele kolejnych jest dodawanych każdego dnia.
+
+
+;Is Firefox OS available in my language?
+Czy Firefox OS jest dostępny w moim języku?
+
+
+;Firefox OS is currently available in Spanish, Polish, English, Italian, Portuguese, German, Serbian, Hungarian and Greek.
+Firefox OS jest obecnie dostępny po hiszpańsku, polsku, angielsku, włosku, portugalsku, niemiecku, serbsku, węgiersku i grecku.
+
+
+;We’re working on adding more languages all the time.
+Ciągle pracujemy nad dodawaniem kolejnych języków.
+
+
+;Using Firefox OS
+Używanie Firefox OS
+
+
+;How do I…
+Jak mam…
+
+
+;…make a call?
+…zadzwonić?
+
+
+;…import my contacts?
+…zaimportować moje kontakty?
+
+
+;…create and view messages?
+…tworzyć i oglądać wiadomości?
+
+
+;…use the internet?
+…używać internetu?
+
+
+;…download and install an app?
+…pobierać i instalować aplikacje?
+
+
+;…take pictures?
+…robić zdjęcia?
+
+
+;…compose and send an email?
+…tworzyć i wysyłać e-maile?
+
+
+;Adaptive App Search
+Dynamiczne wyszukiwanie aplikacji
+
+
+;Get information on any subject right when you need it, brought to you and your phone by Firefox OS.
+Dowiedz się więcej na dowolny temat wtedy, kiedy potrzebujesz, dzięki telefonowi z Firefox OS.
+
+
+;Firefox Marketplace
+Firefox Marketplace {ok}
+
+
+;Your go-to source for the best apps for Firefox OS.
+Źródło najlepszych aplikacji na Firefox OS.
+
+
+;Firefox browser
+Przeglądarka Firefox
+
+
+;The fast, smart, safe way to get the best of the Web.
+Szybki, inteligentny i bezpieczny sposób, by korzystać z sieci WWW.
+
+
+;Deep integration with social media
+Głęboka integracja z mediami społecznościowymi.
+
+
+;Full access to every Twitter and Facebook update from wherever you are.
+Pełen dostęp do każdej aktualizacji z Twittera lub Facebooka, gdziekolwiek jesteś.
+
+
+;Camera
+Aparat
+
+
+;With built-in style filters for fun, creative shots.
+Z wbudowanymi filtrami do zabawy i tworzenia kreatywnych ujęć.
+
+
+;FM Radio
+Radio FM
+
+
+;All the audio you want on the go, all on one device.
+Twoja ulubiona muzyka w twojej kieszeni, a wszystko w jednym urządzeniu.
+
+
+;Maps
+Mapy
+
+
+;Includes directions, traffic and local transit information.
+W tym trasy, korki i informacje o publicznej komunikacji.
+
+
+;Privacy and Security
+Prywatność i bezpieczeństwo
+
+
+;Mozilla was the first to implement the Do Not Track privacy feature.
+Mozilla jako pierwsza zaimplementowała funkcję prywatności Nie Śledź (Do Not Track).
+
+
+;Firefox also features customizable security settings to manage passwords, history, private data, cookies, site options and add-ons. <a href="%(url)s">Learn more.</a>
+Firefox obsługuje również łatwe do dopasowania ustawienia zarządzania hasłami, historią, prywatnymi danymi, ciasteczkami, ustawieniami witryn i dodatkami. <a href="%(url)s">Dowiedz się więcej.</a>
+
+
+;Developer Questions
+Pytania programistów
+
+
+;Are you a developer? Have questions? <a href="%(url)s">Learn more at the Mozilla Developer Network.</a>
+Jesteś programistą? Masz pytania? <a href="%(url)s">Dowiedz się więcej na Mozilla Developer Network.</a>
+
+

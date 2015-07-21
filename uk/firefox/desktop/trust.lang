@@ -1,0 +1,172 @@
+## active ##
+## forget_button ##
+## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/desktop/trust/
+
+
+# <title> tag
+;Firefox — Designed to protect your privacy — The most trusted browser on the Web
+Firefox — Розроблений щоб захистити вашу приватність - Найбільш довірений браузер в інтернеті
+
+
+# main title
+;Trust isn’t made. It’s earned.
+Довіра не створена. Вона заслужена.
+
+
+# L10n: Line break below is for wide screen formatting only.
+;We build Firefox with a mission to put you first, above all else.<br class="wide-br">
+Ми створили Firefox із місією поставити вас понад всім іншим.<br class="wide-br">
+
+
+;We do it to keep you in control.
+Ми робимо це щоб щоб ви мали контроль.
+
+
+;We do it so you can browse without worry.<br class="wide-br">
+Ми робимо це, отже ви можете переглядати і не хвилюватись.<br class="wide-br">
+
+
+;And we do it because no one else will.
+І ми робимо це, тому що цього не зробить більше ніхто.
+
+
+# The span tags are for presentational purpose
+;<span id="trust-line1">Most trusted</span> <span id="trust-line2">internet company</span> <span id="trust-line3">for privacy</span>
+<span id="trust-line1">Найбільш довірена</span> <span id="trust-line2">інтернет компанія</span> <span id="trust-line3">щодо приватності</span>
+
+
+;Designed to protect your privacy
+Розроблений щоб захистити вашу приватність
+
+
+;We believe your personal information belongs only to you.<br class="wide-br">
+Ми віримо, що ваша особиста інформація належить тільки вам.<br class="wide-br">
+
+
+;That’s why Firefox is filled with features to ensure that’s the case.
+Ось чому Firefox наповнений можливостями щоб забезпечити це.
+
+
+;Do Not Track
+Захист від стеження
+
+
+;A Firefox innovation, Do Not Track lets you indicate a preference about the way your personal info is collected and used online.
+Інновація Firefox - Захист від стеження дозволяє вам визначати, яким чином ваші особисті дані збираються та використовуються онлайн.
+
+
+;Learn more about Do Not Track
+Дізнатись більше про захист від стеження
+
+
+;Private browsing
+Приватний перегляд
+
+
+;Sometimes it’s nice to go undercover.
+Іноді корисно бути під прикриттям.
+
+
+;Turn this feature on to protect your browsing history from others.
+Увімкнути цю функцію щоб захистити вашу історію переглядів від інших.
+
+
+;Learn how to open a private window
+Дізнатись як відкрити приватне вікно
+
+
+# Check the correct translation of the button label on Transvision (this is valid for all other "Forget" labels)
+# http://transvision.mozfr.org/string/?entity=browser/chrome/browser/browser.dtd:panicButton.view.forgetButton&repo=beta
+;Forget Button
+Кнопка "Забути"
+
+
+;Remove browsing information from your computer after the fact.
+Приберіть інформацію про перегляд з вашого комп'ютера по факту.
+
+
+;Use it when you’ve visited a site that you don’t want in your history.
+Використовуйте це, коли ви не хочете щоб у вашій історії залишився відвіданий сайт.
+
+
+;Add the Forget Button to your toolbar
+Додайте кнопку "Забути" на свою панель
+
+
+;See who’s watching you online.
+Дізнатись хто слідкує за вами в мережі.
+
+
+;The Lightbeam add-on exposes the first and third party sites you interact with as you browse.
+Додаток Lightbeam розкриває зв'язки між основними та сторонніми сайтами, з якими ви взаємодієте під час перегляду.
+
+
+;Shine a light on the Web with Lightbeam
+Пролліть світло на інтернет з Lightbeam
+
+
+;Keeping you safe across the Web
+Ваша безпека в мережі інтернет
+
+
+;Firefox lets you learn more about the sites you visit and helps keep you secure online.
+Firefox дозволяє вам дізнатись більше про сайти, які ви відвідуєте та допомагає тримати вас у безпеці в мережі.
+
+
+;World class protection
+Захист світового класу
+
+
+;Anti-phishing & anti-malware features protect you from trojan horses and spyware and warn you about potentially fraudulent sites.
+Функції антифішингу та антивірусу захищають вас від троянських та шпигунських програм та попереджають про потенційні шахрайські сайти.
+
+
+;Automatic security updates
+Автоматичні оновлення безпеки
+
+
+;Firefox updates automatically to make sure you always have the latest and greatest security fixes.
+Firefox оновлюється автоматично для впевненості у тому, що ви завжди маєте останні та важливі виправлення безпеки.
+
+
+;Secure connections
+Захищені з'єднання
+
+
+;Use instant Website ID to make sure a site is what it claims to be and to check if your connection to it is secure.
+Використовуйте миттєвий ID веб-сайту, щоб переконатись у тому, що сайт відповідає вимогам та перевірити чи ваше з'єднання з ним безпечне.
+
+
+;Browse without worry
+Переглядайте без турбот
+
+
+# L10n: Line break below is for visual formatting only.
+;Learn more about why your privacy and security are so important <br class="wide-br">and what you can do to protect yourself online.
+Дізнайтесь більше про те, чому ваші приватність та безпека є такими важливими <br class="wide-br">та що ви можете зробити для захисту себе в мережі.
+
+
+;Privacy & you
+Приватність і Ви
+
+
+;How to stay safe online
+Як залишатись у безпеці в мережі
+
+
+;Privacy & security FAQ
+ЧаП щодо приватності та безпеки
+
+
+;Privacy & security add-ons
+Додатки для приватності та безпеки
+
+
+;Privacy blog
+Блог про приватність
+
+
+;Security blog
+Блог про безпеку
+
+

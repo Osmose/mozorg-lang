@@ -1,0 +1,746 @@
+;Navigation
+راهبری
+
+
+# Firefox family navigation menu. Main level item.
+# Example: https://www-dev.allizom.org/firefox/os
+;<span>for</span> Desktop
+<span>for</span> Desktop
+
+
+# Firefox family navigation menu. Main level item.
+;<span>for</span> Android
+<span>for</span> Android
+
+
+# Firefox family navigation menu. Main level item.
+;<span>for</span> iOS
+<span>for</span> iOS
+
+
+# Firefox family navigation menu. Main level item.
+;OS
+OS
+
+
+# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
+# You can test v2 here: https://www-dev.allizom.org/it/firefox/os/devices/?v2=1
+;For desktops &amp; laptops
+For desktops &amp; laptops
+
+
+# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
+;For phones &amp; tablets
+For phones &amp; tablets
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Overview
+نمای‌کلی
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Trusted
+قابل اعتماد
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Flexible
+انعطاف‌پذیر
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Fast
+سریع
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;About
+درباره
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;Devices
+Devices
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;For partners
+For partners
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;Apps
+Apps
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Do Not Track
+Do Not Track
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Tiles
+Tiles
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
+;Interest Dashboard
+Interest Dashboard
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Developer Edition
+Developer Edition
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Private Browsing
+Private Browsing
+
+
+# Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
+;Need help?
+به کمک نیاز دارید؟
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;News
+News
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;For developers
+For developers
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Find My Device
+Find My Device
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Developers
+Developers
+
+
+# Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
+;Choose the independent browser
+Choose the independent browser
+
+
+# Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
+;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
+Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
+
+
+;Donate
+کمک مالی
+
+
+;Support
+پشتیبانی
+
+
+;Products
+برنامه‌ها
+
+
+;Add-ons
+افزودنی‌ها
+
+
+;About Us
+درباره ما
+
+
+;Labs
+آزمایشگاه‌ها
+
+
+;skip to Navigation
+پرش به راهبری
+
+
+;switch language
+تغییر زبان
+
+
+;Back to home page
+بازگشت به صفحهٔ آغازه
+
+
+;About Mozilla
+درباره موزیلا
+
+
+;Get Involved
+همکاری با ما
+
+
+;Careers
+شغل‌ها
+
+
+;Press Center
+مرکز مطبوعات
+
+
+;Contact Us
+تماس با ما
+
+
+;Other languages:
+زبان‌های دیگر:
+
+
+# Year / Month / Day, indicate your prefered date format for your language
+;%Y-%m-%d
+%d-%m-%Y
+
+
+;Legal
+Legal
+
+
+# Used as link in the footer
+;Cookies
+کوکی‌ها
+
+
+# Used as link in the footer
+;Firefox Affiliates
+Firefox Affiliates
+
+
+;Legal Notices
+موارد قانونی
+
+
+;Privacy Policy
+سیاست حفظ حریم خصوصی
+
+
+;Release Notes
+یادداشت‌های انتشار
+
+
+;Other Systems and Languages
+سیستم‌عامل‌ها و زبان‌های دیگر
+
+
+;Close
+بستن
+
+
+;(in English)
+(به زبان انگلیسی)
+
+
+;Return to top
+بازگشت به بالای صفحه
+
+
+;Features
+امکانات
+
+
+;Customize
+سفارشی‌سازی
+
+
+;Download
+بارگیری
+
+
+;Previous
+Previous
+
+
+;Next
+بعدی
+
+
+# MegaBytes abbreviation
+;MB
+مگابایت
+
+
+;MegaBytes
+مگابایت
+
+
+;FAQ
+پرسش‌های متداول
+
+
+;Videos
+فیلم‌ها
+
+
+;Except where otherwise <a href="%s">noted</a>, content on this site is licensed under the <br /><a href="%s">Creative Commons Attribution Share-Alike License v3.0</a> or any later version.
+محتوای این وب‌گاه، به جز در <a href="%s">برخی موارد</a>، تحت نسخهٔ ۳ <a href="%s">Creative Commons Attribution Share-Alike License</a> یا نسخه‌های جدیدتر منتشر شده است.
+
+
+;Report Trademark Abuse
+گزارش سوءاستفاده از علائم تجاری
+
+
+;Free Upgrade
+به‌هنگام‌سازی رایگان
+
+
+# social networks such as Facebook and Twitter
+;Follow us on:
+ما را دنبال کنید:
+
+
+;Customize with Add-ons
+سفارشی‌سازی با افزودنی‌ها
+
+
+;Learn More
+بیشتر بدانید
+
+
+# Same as previous above but with no capitalization on More
+;Learn more
+بیشتر بدانید
+
+
+# Link used to play again an animation or a video
+;Replay
+پخش مجدد
+
+
+;Watch the video
+تماشای ویدئو
+
+
+;Replay the video
+Replay the video
+
+
+;Share the video
+Share the video
+
+
+;WebM format
+قالب WebM
+
+
+;Ogg Theora format
+قالب Ogg Theora
+
+
+;MPEG-4 format
+قالب MPEG-4
+
+
+;Mobile
+همراه
+
+
+;Check out the new look and feel of Firefox.
+ظاهر و حس تازهٔ فایرفاکس را ببینید.
+
+
+;View Full Site
+مشاهدهّ وب‌گاه کامل
+
+
+;Download for <span>Android</span>
+دریافت برای <span>آندروئید</span>
+
+
+;Desktop
+رومیزی
+
+
+;Firefox Beta for mobile
+فایرفاکس بتا برای تلفن همراه
+
+
+;Firefox for mobile
+فایرفاکس برای تلفن همراه
+
+
+;Email
+پست الکترونیکی
+
+
+;Super speed
+سرعت عالی
+
+
+;Stunning graphics
+تصاویر خیره کننده
+
+
+;The latest technologies
+آخرین فن‌آوری‌ها
+
+
+;You need an upgrade! Stay safe in less than a minute. <br/> Start using your new Firefox for the best in browsing and customization on the Web. <br/>   It’s fast and free!
+شما به ارتقا نیاز دارید! در کمتر از یک دقیقه امن باقی بمانید. <br/> برای بهترین مرور و سفارشی‌سازی در وب از فایرفاکس جدید استفاده کنید. <br/>   سریع و رایگان!
+
+
+;Upgrade now
+هم‌اکنون ارتقا دهید
+
+
+;Update now
+هم‌اکنون به‌روزرسانی کنید
+
+
+;Supported Devices
+دستگاه‌های قابل پشتیبانی
+
+
+# This is the equivalent of 'Release Notes' but shorter, used next to download buttons
+;What’s New
+امکانات جدید
+
+
+# This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons and as link in the footer
+;Privacy
+حریم خصوصی
+
+
+# Footer string
+;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
+بخشی از این محتویات ©1998–%(current_year)s توسط مشارکت‌کنندگان انفرادی mozilla.org ایجاد شده است. محتویات براساس <a href="%(url)s">گواهینامه Creative Commons</a> موجود است.
+
+
+# Footer string (will replace "Contribute to this page")
+;Contribute to this site
+Contribute to this site
+
+
+# Footer string
+;Contribute to this page
+کمک به این صفحه
+
+
+# Top menu item
+;Mission
+ماموریت
+
+
+# Footer item on some pages to link to a tour of features
+;Tour
+سیاحت
+
+
+# Footer item
+;Partner with Us
+با ما شریک شوید
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Sync
+Sync
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Desktop Add-ons
+افزودنی‌های رومیزی
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Android Add-ons
+Android Add-ons
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Themes
+تم‌ها
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Desktop Support
+پشتیبانی رومیزی
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Android Support
+Android Support
+
+
+# Top menu item on firefox/update page
+;Performance
+کارایی
+
+
+# Top menu item on firefox/update page
+;Technology
+فناوری
+
+
+# Top menu item on firefox/update page
+;Privacy &amp; Security
+حریم‌شخصی و امنیت
+
+
+# Top menu item on firefox/update page
+;Releases
+انتشارها
+
+
+# Top menu item on firefox/update page
+;Firefox
+فایرفاکس
+
+
+# Top menu item on firefox/update page
+;Firefox for Organizations
+فایرفاکس و سازمان‌ها
+
+
+# Top menu item on firefox/update page
+;Mobile Add-ons
+افزودنی‌های موبایل
+
+
+# Top menu item on firefox/update page
+;Mobile Support
+پشتیبانی موبایل
+
+
+# Top menu item on firefox/update page
+;Blog
+بلاگ
+
+
+# Top menu item on firefox/update page
+;About Firefox
+درباره فایرفاکس
+
+
+# Top menu item on firefox/update page
+;Join Mozilla
+با موزیلا همراه شوید
+
+
+# Top menu item on firefox/update page
+;Participate
+شریک شوید
+
+
+# Top menu item on firefox/update page
+;Brand Toolkit
+جعبه‌ابزار تجاری
+
+
+# Top menu item on firefox/update page
+;Partnerships
+شرکاء
+
+
+# Newsletter subscription form above footer on some pages
+;Get Mozilla updates
+بروزرسانی‌های موزیلا را دریافت کنید
+
+
+# share button for social networks
+;Share
+به‌اشتراک گذاری
+
+
+# footer link
+;Mozilla on Twitter
+موزیلا در توییتر
+
+
+# footer link
+;Firefox on Twitter
+فایرفاکس در توییتر
+
+
+# footer link
+;Mozilla on Facebook
+موزیلا در فیس‌بوک
+
+
+# footer link
+;Firefox on Facebook
+فایرفاکس در فیس‌بوک
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Forums
+انجمن‌ها
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Leadership
+Leadership
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Governance
+مدیریت
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;History
+تاریخچه
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Our Products
+محصولات ما
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Software and other innovations designed to advance our mission.
+نرم‌افزارها و نوآوری‌های مختلف، در اختیار هدف ما.
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
+;Become a volunteer contributor in a number of different areas.
+یک مشارکت کننده‌ی داوطلب در حوزه‌های مختلف باشید.
+
+
+# This is a non-visible string for blind people to indicate where the menu is
+;Menu
+منو
+
+
+# Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
+;Committed to you, your privacy and an open Web
+متعهد به شما، حریم خصوصی شما و وب آزاد
+
+
+# Common title used in Fx 10 pages
+;Choose Independent
+Choose Independent
+
+
+# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
+# The '#ChooseIndependent' hashtag should not be translated.
+;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
+Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
+
+
+# This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
+;Please turn on JavaScript to display this page correctly.
+Please turn on JavaScript to display this page correctly.
+
+
+# Used as link to /firefox/desktop in footers on some pages
+;Firefox Features
+امکانات فایرفاکس
+
+
+# Used as link to SUMO in footers on some pages
+;Firefox Help
+راهنمای فایرفاکس
+
+
+;January
+ژانویه
+
+
+;February
+فوریه
+
+
+;March
+مارس
+
+
+;April
+آوریل
+
+
+;May
+مه
+
+
+;June
+ژوئن
+
+
+;July
+ژوئیه
+
+
+;August
+اوت
+
+
+;September
+سپتامبر
+
+
+;October
+اکتبر
+
+
+;November
+نوامبر
+
+
+;December
+دسامبر
+
+
+;<abbr>Jan</abbr>
+<abbr>ژانویه</abbr>
+
+
+;<abbr>Feb</abbr>
+<abbr>فوریه</abbr>
+
+
+;<abbr>Mar</abbr>
+<abbr>مارس</abbr>
+
+
+;<abbr>Apr</abbr>
+<abbr>آوریل</abbr>
+
+
+;<abbr>May</abbr>
+<abbr>مه</abbr>
+
+
+;<abbr>Jun</abbr>
+<abbr>ژوئن</abbr>
+
+
+;<abbr>Jul</abbr>
+<abbr>ژوئیه</abbr>
+
+
+;<abbr>Aug</abbr>
+<abbr>اوت</abbr>
+
+
+;<abbr>Sep</abbr>
+<abbr>سپتامبر</abbr>
+
+
+;<abbr>Oct</abbr>
+<abbr>اکتبر</abbr>
+
+
+;<abbr>Nov</abbr>
+<abbr>نوامبر</abbr>
+
+
+;<abbr>Dec</abbr>
+<abbr>دسامبر</abbr>
+
+
+# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
+;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
+Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
+
+
+;Congrats. You’re up to date!
+Congrats. You’re up to date!
+
+

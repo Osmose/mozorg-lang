@@ -1,0 +1,286 @@
+## active ##
+## fx10_independent ##
+## gear_store ##
+## meta_update_201503 ##
+## privacy_day ##
+## webmaker_promo_make ##
+## NOTE: demo server at https://www-dev.allizom.org/
+
+
+# Used as page title in HTML meta tag
+;We’re building a better Internet
+Egy jobb internetet építünk
+
+
+# Used as page description in HTML meta tag
+;Did you know? Mozilla — the maker of Firefox — fights to keep the Internet a global public resource open and accessible to all.
+Tudta? A Mozilla – a Firefox készítője – azért harcol, hogy az internet megmaradjon globális közösségi erőforrásnak, és mindenki számára elérhetőnek.
+
+
+;Home of the Mozilla Project
+A Mozilla projekt otthona
+
+
+;Read more
+Olvasson még
+
+
+;Community
+Közösség
+
+
+# This is used as a link to dismiss the video overlay and continue to mozilla.org website
+;Continue to mozilla.org
+Tovább a mozilla.org-ra
+
+
+;Discover <br>what drives our mission
+Fedezze fel, <br>mi vezérli küldetésünket
+
+
+;See the principles <br>that guide everything <br>we do.
+Nézze meg azon elveket, <br>amelyek minden tevékenységünket <br>vezérlik.
+
+
+;Read the <br>Mozilla Manifesto
+Olvassa el a <br>Mozilla Kiáltványt
+
+
+# Do no translate "Firefox Friends" (https://friends.mozilla.org)
+;Introducing <br>Firefox Friends
+Introducing <br>Firefox Friends
+
+
+;Join. Share. <br>Get rewarded.
+Join. Share. <br>Get rewarded.
+
+
+;Join Firefox Friends
+Join Firefox Friends
+
+
+# Small tile. Link points to https://advocacy.mozilla.org
+;Learn about Mozilla Advocacy
+Ismerje meg a Mozilla Advocacy projektet
+
+
+;Understand your privacy online
+Ismerje meg az online adatvédelmet
+
+
+;Download Firefox
+Firefox letöltése
+
+
+;Learn more
+Tudjon meg többet
+
+
+;Get creative <br>at Maker Party
+Get creative <br>at Maker Party
+
+
+;Join Mozilla <br>and help teach the Web.
+Join Mozilla <br>and help teach the Web.
+
+
+;Join the party
+Join the party
+
+
+;Make the Web you want
+Készítsen saját webet
+
+
+;Build a Web page or app in minutes<br> — no coding required.
+Készítsen percek alatt saját weboldalt vagy appot<br> – nem szükséges programozni.
+
+
+;Become a Webmaker
+Legyen Ön is Webmaker
+
+
+;Teach the Web
+Tanítsa az internetet
+
+
+;Let’s build a Web that’s open <br>and made by everyone.
+Építsünk egy nyílt internetet <br>amelyhez mindenki hozzájárul.
+
+
+;Try the new Webmaker
+Try the new Webmaker
+
+
+;Build an app <br>in seconds
+Készítsen appokat <br>másodpercek alatt
+
+
+;Volunteer <br>with Mozilla
+Legyen önkéntes <br>a Mozillával
+
+
+# "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
+;Try Firefox Developer Edition
+Try Firefox Developer Edition
+
+
+# "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
+;Introducing Firefox Developer Edition
+Bemutatjuk a Firefox fejlesztői kiadást
+
+
+;The only browser made only for developers.
+Az egyetlen, fejlesztőknek készült böngésző.
+
+
+;Get Firefox Developer Edition
+A Firefox fejlesztői kiadás letöltése
+
+
+;Try the best Firefox yet
+Próbálja ki az eddigi legjobb Firefoxot
+
+
+;Made with a mission to put you first.
+Nekünk a felhasználó a legfontosabb.
+
+
+;Learn more about Firefox
+Ismerje meg a Firefoxot
+
+
+;Put your Firefox on your Android
+Tegyen Firefoxot androidos készülékére
+
+
+;The features <br>you love. <br>The privacy <br>you trust.
+A funkciók, <br>amiket szeret. <br>Az adatvédelem, <br>amiben bízhat.
+
+
+;Learn about <br>Firefox for Android
+Ismerje meg a <br>Firefox for Androidot
+
+
+# Used in a small tile
+;Official Mozilla gear is here
+A hivatalos Mozilla cuccok megérkeztek
+
+
+# This string is currently unused (tile will link to Mozilla Gear Store)
+;Merch with a mission. <br>Products with a purpose. <br>Goods that do good.
+Áruk küldetéssel. <br>Termékek céllal. <br>Jót tevő javak.
+
+
+# This string is currently unused (tile will link to Mozilla Gear Store)
+;Get your Mozilla gear
+Szerezzen be Mozillás cuccokat
+
+
+;Help Mozilla users
+Segítsen Mozilla felhasználóknak
+
+
+;Help millions <br>get the most from their <br>favorite browser.
+Segítsen millióknak <br>kihozni a legtöbbet <br>a kedvenc böngészőjükből.
+
+
+;Join our support team
+Csatlakozzon támogatói csapatunkhoz
+
+
+# Used in Twitter feed
+;Reply
+Válasz
+
+
+# Used in Twitter feed
+;Retweet
+Retweet {ok}
+
+
+# <strong> tags below are for visual formatting only.
+;Committed to <strong>you, your privacy</strong> and an <strong>open Web</strong>
+Elkötelezve <strong>Ön, az adatai védelme</strong> és a <strong>nyitott internet</strong> iránt
+
+
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
+;active Mozillians <br>worldwide
+aktív mozillás <br>világszerte
+
+
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
+;upcoming events <br>around the globe
+soron következő esemény <br>világszerte
+
+
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
+;languages and counting, <br>on every continent
+nyelv és egyre több, <br>minden kontinensen
+
+
+;Get Involved with Mozilla today
+Csatlakozzon a Mozillához
+
+
+;Upcoming events
+Soron következő események
+
+
+;Next event
+Következő esemény
+
+
+;See all events
+Minden esemény
+
+
+;Compare prices, check the weather, listen to music, send a tweet and more right from Firefox.
+Hasonlítson össze árakat, nézzen időjárás-jelentést, hallgasson zenét, twitteljen egyenesen a Firefoxból.
+
+
+;Careers
+Álláslehetőségek
+
+
+;Learn about the benefits of working at Mozilla and view open positions around the world.
+Ismerje meg, milyen előnyei vannak a Mozillánál végzett munkának, és nézze meg a világszerte nyitott pozíciókat.
+
+
+;Get answers to your questions about Firefox and all Mozilla products from our support team.
+Támogatói csapatunktól választ kaphat kérdéseire a Firefoxszal és minden Mozilla termékkel kapcsolatban.
+
+
+;Discover more
+Folytassa a felfedezést
+
+
+;Help us celebrate 10 years of Firefox.
+Ünnepeljük együtt a Firefox 10. születésnapját.
+
+
+# Old promo tiles
+;Donate to Mozilla
+Adományozzon a Mozillának
+
+
+;Your gift helps us build the Internet the world needs.
+Adományával segít, hogy olyan internetet építsünk, amelyre a világnak szüksége van.
+
+
+;Donate today
+Adományozzon
+
+
+;Meet<br> Firefox Hello
+Bemutatjuk<br> a Firefox Hellot
+
+
+;The easiest way to connect for free over video.
+A legegyszerűbb módszer az ingyenes videokapcsolatra.
+
+
+;Try Firefox Hello
+Próbálja ki a Firefox Hellot
+
+

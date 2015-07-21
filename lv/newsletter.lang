@@ -1,0 +1,494 @@
+## NOTE: These strings are used for newsletter elements (subscription forms, preferences management, etc.)
+
+
+;Get Monthly News
+Iegūstiet ikmēneša jaunumus
+
+
+;Your Email Address
+Jūsu epasta adrese
+
+
+;Your email address:
+Jūsu epasta adrese:
+
+
+;Text
+Teksts
+
+
+;Available Languages
+Pieejamās valodas
+
+
+;Language:
+Valoda:
+
+
+;Select country
+Izvēlieties valsti
+
+
+;Country:
+Valsts:
+
+
+;Whoops! Be sure to enter a valid email address.
+Uuuups! Pārliecinieties, ka ievadītā epasta adrese ir pareiza.
+
+
+;Please read the Mozilla Privacy Policy and agree by checking the box.
+Lūdzu izlasiet Mozilla privātuma politiku un piekrītiet ieķeksējot rūtiņā.
+
+
+;I agree to the <a href="%s">Privacy Policy</a>
+Es piekrītu <a href="%s">Privātuma politikai</a>
+
+
+;Sign me up!
+Pierakstiet mani!
+
+
+;We will only send you Mozilla-related information.
+Mēs sūtīsim tikai ar Mozilla saistītu informāciju.
+
+
+;Thanks for Subscribing!
+Paldies, ka pierakstījāties!
+
+
+;We look forward to soon begin sharing tips &amp; tricks on getting the most out of Firefox, as well as exciting news about Mozilla and how we’re working to create a better Web.
+Mēs ar nepacietību gaidām, kad varēsim dalīties ar padomiem un ieteikumiem, kā iegūt vairāk no Firefox, kā arī jaunākās ziņas par to kā Mozilla strādā, lai padarītu Internetu labāku.
+
+
+;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
+Piesakieties ikmēneša jaunumiem un sekojiet līdz Mozilla aktualitātēm, kā arī dažādiem padomiem par to kā iegūt vairāk ar Firefox. Šis ir ideāls veids kā mums būt draugiem!
+
+
+;We just sent you a confirmation message by email. Click on the confirmation link in this email to validate your subscription to this mailing list.
+Mēs nupat nosūtījām jums apstiprinājuma epastu. Noklikšķiniet uz apstiprinājuma saites epastā, lai pierakstītos mūsu vēstkopā.
+
+
+;Read all about it in our <span>newsletter</span>
+Uzziniet visu par šo mūsu <span>jaunumos</span>
+
+
+;Your newsletter subscription has been confirmed.
+Jūsu vēstkopas pieteikums ir apstiprināts.
+
+
+;Format
+Formāts
+
+
+;You’re All Set! <span>But Wait, There’s More</span>
+Viss gatavs! <span>Bet uzgaidi, ir vēl</span>
+
+
+;Want to get the most relevant info? Tell us a little more about yourself. And while you’re here, sign up for other Mozilla news.
+Gribi iegūt pašu aktuālāko informāciju? Pastāsti mums nedaudz par sevi. Un ja jau esi te, piesakies Mozilla jaunumiem.
+
+
+# Name for the newsletter in Newsletter subscription page
+;Firefox & You
+Firefox un Tu
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox & You)
+;A monthly newsletter and special announcements giving you tips to improve your experience with Firefox on your desktop and Android device.
+Ik mēneša vēstule ar īpašiem paziņojumiem un padomiem, kā uzlabot ikdienu ar Firefox un Firefox Android ierīcēm.
+
+
+# Name for the newsletter in Newsletter subscription page
+;Firefox OS News
+Firefox OS ziņas
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox OS News)
+;A monthly newsletter and special announcements on how to get the most from your Firefox OS device, including the latest features and coolest Firefox Marketplace apps.
+Ik mēneša vēstule un īpašie paziņojumi par to kā iegūt vairāk no Firefox OS, tostarp jaunākās iespējas un lietotnes no Firefox veikala.
+
+
+# Name for the newsletter in Newsletter subscription page
+;Mozilla Communities
+Mozilla kopienas
+
+
+# Description for the newsletter in Newsletter subscription page (Mozilla Communities)
+;Bringing you the best new opportunities to help support the open Web.
+Jaunākās ziņas par iespējām atbalstīt atvērto internetu.
+
+
+# Name for the newsletter in Newsletter subscription page
+;Firefox Student Ambassadors
+Firefox Student Ambassadors
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox Student Ambassadors)
+;A monthly newsletter on how to get involved with Mozilla on your campus.
+A monthly newsletter on how to get involved with Mozilla on your campus.
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox Affiliates)
+;A monthly newsletter to keep you up to date with the Firefox Affiliates program.
+A monthly newsletter to keep you up to date with the Firefox Affiliates program.
+
+
+# Name for the newsletter in Newsletter subscription page
+;Firefox Apps & Hacks
+Firefox Apps & Hacks
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox Apps & Hacks)
+;News for developers about Firefox OS, Firefox Marketplace and the Open Web apps ecosystem.
+Ziņas izstrādātajiem par Firefox OS, Firefox Marketplace un Atvērtā Tīmekļa aplikāciju ekosistēmu.
+
+
+# Name for the newsletter in Newsletter subscription page
+;Mozillians
+Mozillians
+
+
+# Name for the newsletter in Newsletter subscription page
+;Firefox for desktop
+Firefox datoriem
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox for desktop)
+;Don’t miss the latest announcements about our desktop browser.
+Don’t miss the latest announcements about our desktop browser.
+
+
+# Name for the newsletter in Newsletter subscription page
+;Firefox for Android
+Firefox Android ierīcēm
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox for Android)
+;Keep up with releases and news about Firefox for Android.
+Keep up with releases and news about Firefox for Android.
+
+
+# Description for the in Newsletter subscription page (Firefox OS)
+;Be the first to know when Firefox OS devices are available in your country.
+Be the first to know when Firefox OS devices are available in your country.
+
+
+# Description for the newsletter in Newsletter subscription page (Mozilla)
+;Special announcements and messages from the team dedicated to keeping the Web free and open.
+Special announcements and messages from the team dedicated to keeping the Web free and open.
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox Marketplace)
+;Know when the coolest apps hit the Marketplace for your platform:
+Know when the coolest apps hit the Marketplace for your platform:
+
+
+# Name for the newsletter in Newsletter subscription page
+;Firefox OS smartphone owner?
+Firefox OS smartphone owner?
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox OS smartphone owner?)
+;Don’t miss important news and updates about your Firefox OS device.
+Don’t miss important news and updates about your Firefox OS device.
+
+
+;Our Other Newsletters:
+Citas mūsu vēstkopas:
+
+
+;Get the latest tips and tricks for getting the most out of your favorite browser.
+Uzzini par jaunākajiem trikiem un viltībām, kā iegūt maksimālo labumu no Tava mīļākā pārlūka.
+
+
+;Firefox Mobile
+Mobilais Firefox
+
+
+;Learn about the hottest new add-ons and features for Firefox mobile.
+Iepazīsti degošākos papildinājumu un mobilā Firefox iespējas.
+
+
+;Beta News
+Beta ziņas
+
+
+;Let’s Be Friends!
+Būsim draugi!
+
+
+;Firefox is also on your favorite social networking sites. Connect with us and join the conversation.
+Firefox dzīvo arī sociālo tīklu vietnēs. Piesakies un piedalies sarunā.
+
+
+;Manage your <span>Newsletter Subscriptions</span>
+Pārvaldīt <span>vēstkopu abonementus</span>
+
+
+;Manage your Email Preferences
+Manage your Email Preferences
+
+
+;We love sharing updates about all the awesome things happening at Mozilla.
+We love sharing updates about all the awesome things happening at Mozilla.
+
+
+;Set your preferences below to make sure you always receive the news you want.
+Set your preferences below to make sure you always receive the news you want.
+
+
+;Newsletters
+Newsletters
+
+
+;Getting too much email from us?
+Getting too much email from us?
+
+
+;Not interested in our newsletters, but like those special announcements? No problem.
+Not interested in our newsletters, but like those special announcements? No problem.
+
+
+;We can keep in touch with occasional messages that matter most to you.
+We can keep in touch with occasional messages that matter most to you.
+
+
+;Check all categories that apply to you, and we promise to keep the mail to a minimum.
+Check all categories that apply to you, and we promise to keep the mail to a minimum.
+
+
+;I’m interested in:
+I’m interested in:
+
+
+;Subscribe
+Pieteikties
+
+
+;Unsubscribe
+Atteikties
+
+
+;Check here if you’d like to be removed from all Mozilla emails
+Atzīme te, ka vēlies, lai tevi izņem no visiem Mozilla epastu sarakstiem
+
+
+;Remove me from all Mozilla emails
+Izņemiet mani no visiem Mozilla epastiem
+
+
+;Save Preferences
+Saglabāt iestatījumus
+
+
+;Thanks for updating your email preferences.
+Paldies, ka atjaunināji epasta iestatījumus.
+
+
+;You've been unsubscribed.
+Jūs esat veiksmīgi atteicies.
+
+
+;We’re sorry to see you go. Would you mind telling us why you’re leaving?
+Mums ļoti žēl, ka aizejat. Vai Jūs neiebilstu pateikt kāpēc aizejat?
+
+
+;You send too many emails.
+Jūs sūtāt pārāk daudz epastu.
+
+
+;Your content wasn't relevant to me.
+Ziņojumu saturs man nebija aktuāls.
+
+
+;Your email design was too hard to read.
+Ziņojumu dizainu bija pārāk grūti lasīt.
+
+
+;I didn't sign up for this.
+Es nemaz nepieteicos uz šīm ziņām.
+
+
+;I'm keeping in touch with Mozilla on Facebook and Twitter instead.
+Sekoju Mozilla Feisbukā un Tviterī.
+
+
+;Submit
+Nosūtīt
+
+
+;Thanks for telling us why you’re leaving.
+Paldies, ka izstāstījāt, kāpēc aizejat.
+
+
+;Mozilla Newsletters
+Mozilla jaunumi
+
+
+;Thanks! Please check your inbox to confirm your subscription.
+Paldies! Lūdzu, pārbaudi savu pasta kasti, lai apstiprinātu pieteikšanos jaunumiem.
+
+
+;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
+Jūs saņemsiet epastu no mozilla@e.mozilla.org, lai apstiprinātu pieteikšanos jaunumiem. Ja neredzat šo epastu, pārbaudiet mēstuļu mapi. Lai saņemtu jaunumus, jāapstiprina pieteikšanās uz tiem.
+
+
+;Please be sure to add our sending address: mozilla@e.mozilla.org to your address book to ensure we always reach your inbox.
+Lūdzu pārliecinieties, ka vēstules, kas tiek sūtītas no mozilla@e.mozilla.org spēj nonākt jūsu pasta kastē.
+
+
+# This string is used for a subscription field on other pages than /newsletter/
+;Get Firefox news
+Saņemiet Firefox ziņas
+
+
+# This is a default placeholder for a subscription field on other pages than /newsletter/
+;YOUR EMAIL HERE
+JŪSU EPASTS
+
+
+# Button
+;Sign me up
+Pierakstiet mani
+
+
+;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
+Esmu ar mieru lai mozilla apietos ar manam datnēm kā noteiks šajā <a href="%s">Privātuma Politikā</a>
+
+
+;The supplied link has expired. You will receive a new one in the next newsletter.
+Šī saite ir novecojusi. Nākamajā ziņojumā jūs saņemsiet jaunu saiti.
+
+
+;Something is amiss with our system, sorry! Please try again later.
+Mūsu sistēmai ir kaut kādas problēmas, piedodiet! Mēģiniet vēlreiz nedaudz vēlāk.
+
+
+;English&nbsp;only
+Tikai&nbsp;angliski
+
+
+;Newsletter Subscriptions
+Vēstkopu abonementi
+
+
+;Newsletter confirm
+Vēstkopu apstiprinājums
+
+
+;Format:
+Formāts:
+
+
+;You’ve been unsubscribed.
+Jūs esat atteicies.
+
+
+;We’re sorry to see you go.
+Mums žēl ka jūs mums atstājiet.
+
+
+;Would you mind telling us why you’re leaving?
+Vai jūs varēt mums pastāstiet kāpēc jūs mums pametiet?
+
+
+;Other…
+Cits…
+
+
+;While here, why not check out some more Firefox awesomeness.
+While here, why not check out some more Firefox awesomeness.
+
+
+;Get up and go
+Get up and go
+
+
+;It’s your Web anywhere you go.
+Tas ir jūsu tīmeklis jebkur jūs iet.
+
+
+;Get Firefox for mobile!
+Iegūstiet Firefox mobilām ierīcēm!
+
+
+;Added extras
+Added extras
+
+
+;Make Firefox do more with add-ons.
+Make Firefox do more with add-ons.
+
+
+;Find out how!
+Uzziniet kās!
+
+
+;About us
+Par mums
+
+
+;What’s Mozilla all about?
+Par ko vispār ir Mozilla?
+
+
+;We’re glad you asked!
+We’re glad you asked!
+
+
+# Description for the newsletter in Newsletter subscription page
+;A monthly newsletter packed with tips to improve your Firefox experience.
+A monthly newsletter packed with tips to improve your Firefox experience.
+
+
+# Description for the newsletter in Newsletter subscription page
+;Tips and tricks to use Firefox on your Android phone.
+Tips and tricks to use Firefox on your Android phone.
+
+
+# Description for the newsletter in Newsletter subscription page
+;Firefox OS news, tips, launch information and where to buy.
+Firefox OS ziņas, padomi, palaišanas informācija un kur to iegadāties.
+
+
+# Description for the newsletter in Newsletter subscription page
+;Be the first to know when Firefox is available for iOS devices.
+Be the first to know when Firefox is available for iOS devices.
+
+
+# Description for the newsletter in Newsletter subscription page
+;Discover the latest, coolest HTML5 apps on Firefox OS.
+Atklājiet jaunākas un foršākas HTML5 aplikācijas uz Firefox OS.
+
+
+# Description for the newsletter in Newsletter subscription page
+;Get a weekly tip on how to super-charge your Firefox experience.
+Get a weekly tip on how to super-charge your Firefox experience.
+
+
+# Description for the newsletter in Newsletter subscription page
+;Read about the latest features for Firefox desktop and mobile before the final release.
+Lasi par jaunākajām iespējām Firefox versijās pirms tās nonāk gala versijā.
+
+
+# Description for the newsletter in Newsletter subscription page
+;News from the Mozilla Project.
+Ziņas no Mozilla Projekta.
+
+
+# Description for the newsletter in Newsletter subscription page
+;Periodic email updates about our annual international film competition.
+Periodic email updates about our annual international film competition.
+
+
+# Description for the newsletter in Newsletter subscription page
+;Email updates for vouched Mozillians on mozillians.org.
+Epasta atjauninājumi apstiprinātiem Moziliešiem uz mozillians.org.
+
+
+# Description for the newsletter in Newsletter subscription page
+;Former University program from 2008-2011, now retired and relaunched as the Firefox Student Ambassadors program.
+Former University program from 2008-2011, now retired and relaunched as the Firefox Student Ambassadors program.
+
+
