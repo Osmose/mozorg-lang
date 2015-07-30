@@ -1,9 +1,5 @@
 ## active ##
-
-
 ## NOTE: demo server at https://www-dev.allizom.org/firefox/36.0/firstrun/ and https://www-dev.allizom.org/firefox/36.0/whatsnew/?oldversion=35.0
-
-
 ## NOTE: pages are still in development.
 
 
@@ -78,12 +74,12 @@ Mund të bëni biseda falas me video drejt e nga shfletuesi juaj Firefox.
 
 # This is the label that represents tour step one of two
 ;1/2
-1/2 {ok}
+1/2{ok}
 
 
 # This is the label that represents tour step two of two
 ;2/2
-2/2 {ok}
+2/2{ok}
 
 
 # “Firefox Hello” is the product name and should not be localized

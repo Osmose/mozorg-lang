@@ -1,12 +1,6 @@
 ## NOTE: this file covers both the product page and the first time experience (interactive UI Tour)
-
-
 ## NOTE: check https://groups.google.com/forum/#!topic/mozilla.dev.l10n.web/4uNJ7sz9xmw for instructions on how to test the tour page
-
-
 ## NOTE: product page demo URL (work in progress) https://www-dev.allizom.org/firefox/hello/
-
-
 ## NOTE: firts time experience demo URL https://www-dev.allizom.org/firefox/38.0a1/hello/start/
 
 
@@ -79,7 +73,7 @@ Maklik.
 # This is an English idiomatic expression: http://www.phrases.org.uk/meanings/316750.html
 # Feel free to adapt it to your locale.
 ;Share and share alike
-Share and share alike {ok}
+Share and share alike
 
 
 ;Want to show off some new baby pictures?
@@ -91,7 +85,7 @@ Deel vakansiemoontlihede oor die Web?
 
 
 ;Check in on a project from half a world away?
-Check in on a project from half a world away? {ok}
+Check in on a project from half a world away?
 
 
 ;Screen sharing on Firefox Hello makes it all possible.
@@ -247,11 +241,11 @@ Firefox is nie eens nodig om aan te sluit nie. Hulle hoef slegs die skakel te kl
 
 
 ;No need to wait around
-No need to wait around {ok}
+No need to wait around
 
 
 ;You will receive a notification once they’ve joined
-You will receive a notification once they’ve joined {ok}
+You will receive a notification once they’ve joined
 
 
 # “Hello” is the product name and should not be localized
@@ -307,6 +301,6 @@ Begin direk uit Firefox en nooi enigeen, enige plek vir 'n gesprek. Hulle hoef b
 
 
 ;You’ve started your first conversation. Wasn’t that easy?
-You’ve started your first conversation. Wasn’t that easy? {ok}
+You’ve started your first conversation. Wasn’t that easy?
 
 

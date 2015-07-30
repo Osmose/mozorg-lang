@@ -1,12 +1,6 @@
 ## active ##
-
-
 ## plugin_updated_content ##
-
-
 ## plugincheck_nosupport ##
-
-
 ## NOTE: Updated plugincheck page at url: https://www-dev.allizom.org/b/plugincheck/
 
 
@@ -37,7 +31,7 @@ Ondersoek
 
 # This string is used together with the plugin's name to create a query on Google when using the Research button.
 ;current version plugin
-current version plugin {ok}
+current version plugin
 
 
 # This is a button informing the user that their plugin is up to date
@@ -62,7 +56,7 @@ kwesbaar
 
 # This is the string used to indicate that the plugin is outdated
 ;outdated
-outdated {ok}
+outdated
 
 
 # Main title
@@ -197,7 +191,7 @@ Lus om die woord te help versprei?
 
 
 ;Help your friends stay safe online! Visit <a href="%(url)s">Firefox Affiliates</a> to get a plugin check badge for your site.
-Help your friends stay safe online! Visit <a href="%(url)s">Firefox Affiliates</a> to get a plugin check badge for your site. {ok}
+Help your friends stay safe online! Visit <a href="%(url)s">Firefox Affiliates</a> to get a plugin check badge for your site.
 
 
 ;How do I disable a plugin?
